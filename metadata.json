@@ -1,0 +1,5 @@
+{
+  "name": "NeuroBuddy: Cranial Nerves Chatbot",
+  "description": "An AI-powered chatbot that provides expert answers on the 12 cranial nerves, their functions, and neuroanatomy. It uses Google Search to provide up-to-date and sourced information.",
+  "requestFramePermissions": []
+}
